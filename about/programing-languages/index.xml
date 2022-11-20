@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programing Languages on My New Hugo Site</title>
-    <link>http://example.org/about/programing-languages/</link>
+    <link>https://benraguckas.github.io/about/programing-languages/</link>
     <description>Recent content in Programing Languages on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/about/programing-languages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://benraguckas.github.io/about/programing-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>http://example.org/about/programing-languages/language-java/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-java/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-java/</guid>
       <description>Bread and butter of all my languages.
 Java is the primary language used by TUS so it is reflected in most of Projects and assignments.
 Over the time I have become very proficient with Java but I find myself preferring other languages when presented the option. Certain limiting design factors draw me away from Java.
@@ -21,10 +21,10 @@ JDBC JUnit testing Java Swing Multi-threading and Asynchronous programming </des
     
     <item>
       <title>JavaScript</title>
-      <link>http://example.org/about/programing-languages/language-js/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-js/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-js/</guid>
       <description>Somehow this has become a staple for starting out many project ideas.
 Majority of my exploratory projects have started out in JavaScript and it has proved to be great learning tool due to it’s easy of use. Much of my skill can be attributed to JavaScript.
 When it comes to JavaScript I have worked with:
@@ -33,10 +33,10 @@ Creating APIs Web compression using Z-lib Web scraping Web design </description>
     
     <item>
       <title>TypeScript</title>
-      <link>http://example.org/about/programing-languages/language-ts/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-ts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-ts/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-ts/</guid>
       <description>A more preferred version of JavaScript
 I had little opportunity to work with TypeScript as I don’t find it too suited for minor projects or coding exercises, but I do find it to be “improved” version of JavaScript. Features it provides and especially types are extremely appealing to work with.
 The first time I had a chance to work with Node.js was using TypeScript.
@@ -45,10 +45,10 @@ I would like to use TypeScript more but as it sits JavaScript is more approachab
     
     <item>
       <title>Dart</title>
-      <link>http://example.org/about/programing-languages/language-dart/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-dart/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-dart/</guid>
       <description>Dart was an odd language to pick up on and it was only due to developing an App in Flutter.
 The language is relatively complex with its own nuances, but it feels a lot like Java or C# which I have extensive experience with.
 I’m not too certain where I would use Dart outside of Flutter but developing apps with it feels a lot more streamlined and fast compared to Android Studio.</description>
@@ -56,10 +56,10 @@ I’m not too certain where I would use Dart outside of Flutter but developing a
     
     <item>
       <title>C#</title>
-      <link>http://example.org/about/programing-languages/language-cs/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-cs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-cs/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-cs/</guid>
       <description>C#, what I like to consider to be a more handsome cousins of Java.
 Unfortunately, my experience with C# is lesser but I found majority of my skills of Java to be extremely transferable. Combined with the extra features it offers and general coding conventions I find myself enjoying it the most out of all languages.
 Most of my experience comes from:
@@ -68,10 +68,10 @@ ASP.net Godot Unity </description>
     
     <item>
       <title>Python</title>
-      <link>http://example.org/about/programing-languages/language-python/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-python/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-python/</guid>
       <description>The only language that I have actual work experience with.
 I&amp;rsquo;m not too fond of Python due to it&amp;rsquo;s scripting nature and coding conventions, but even I must admit that it is an excellent choice to achieve results.
 I have worked with:

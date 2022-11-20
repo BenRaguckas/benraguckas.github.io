@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timeline on My New Hugo Site</title>
-    <link>http://example.org/about/timeline/</link>
+    <link>https://benraguckas.github.io/about/timeline/</link>
     <description>Recent content in Timeline on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/about/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://benraguckas.github.io/about/timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leaving Cert</title>
-      <link>http://example.org/about/timeline/timeline-leavingcert/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-leavingcert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-leavingcert/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-leavingcert/</guid>
       <description>St. Clare’s College, Ballyjamesduff, Co. Cavan
 Finished all honors with 425 points.</description>
     </item>
     
     <item>
       <title>DCU - Electronic &amp; computer engineering</title>
-      <link>http://example.org/about/timeline/timeline-dcu/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-dcu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-dcu/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-dcu/</guid>
       <description>This proved to be my first introduction to software.
 Unfortunatelly due to financial situation and lack of interested I dropped the course 1 year later.</description>
     </item>
     
     <item>
       <title>Mr. Crumb - Factory work</title>
-      <link>http://example.org/about/timeline/timeline-factorywork/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-factorywork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-factorywork/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-factorywork/</guid>
       <description>First real work experience where I had a chance to truly learn to work under pressure, develop personal and team work skills. This provided me sufficient financial security and the drive to further pursue my education.
 •	Learned to be confident in my work and ability
 •	Flexibility to conduct many different tasks
@@ -40,10 +40,10 @@ Unfortunatelly due to financial situation and lack of interested I dropped the c
     
     <item>
       <title>Ericsson summer work experience</title>
-      <link>http://example.org/about/timeline/timeline-ericsson-summer/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-ericsson-summer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-ericsson-summer/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-ericsson-summer/</guid>
       <description>First work experience in the sofware field after 2nd year of study. I was part of DevOps / Continuous Integration team.
 This was very much out of my comfort zone and I had to pick up on many new skills like Containerization, Docker and Kubernetes. I found it very overwhelming but it proved very helpful at learning these new skills.
 I was difficul to keep up with tasks but I was able to integrate new automated tests suites.</description>
@@ -51,10 +51,10 @@ I was difficul to keep up with tasks but I was able to integrate new automated t
     
     <item>
       <title>Ericsson work placement</title>
-      <link>http://example.org/about/timeline/timeline-ericsson-placement/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-ericsson-placement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-ericsson-placement/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-ericsson-placement/</guid>
       <description>3rd year work placement back with Ericsson and the same team as before.
 This time I had previous knowledge and skills that I was able to build upon during the school semester. I became a lot more proficient with Containerisations as a whole and Docker became second nature. Kubernetes still proved difficult to work with, but I had greater success that I did before.
 Throughout my time I managed to work more on new test suites for automated pipelines as well as paving the way to some more automation of repetitive tasks.</description>
@@ -62,10 +62,10 @@ Throughout my time I managed to work more on new test suites for automated pipel
     
     <item>
       <title>TUS - Software developement with cloud computing</title>
-      <link>http://example.org/about/timeline/timeline-tus/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-tus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-tus/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-tus/</guid>
       <description>I&amp;rsquo;m on my final year of study.
 I continue to aim for First Class Honours (1.1) which I managed to keep up with so far.</description>
     </item>

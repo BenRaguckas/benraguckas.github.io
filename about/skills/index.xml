@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skills on My New Hugo Site</title>
-    <link>http://example.org/about/skills/</link>
+    <link>https://benraguckas.github.io/about/skills/</link>
     <description>Recent content in Skills on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/about/skills/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://benraguckas.github.io/about/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps &amp; Continuous Integration</title>
-      <link>http://example.org/about/skills/skill-devops/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-devops/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-devops/</guid>
       <description>My primary work experience.
 I had to work as part of DevOps team maintaining and ensuring successful deployment of a product.
 I have worked with Docker, Kubernetes, Helm utilizing Jenkins and Spinnaker for pipelines and automation.
@@ -20,10 +20,10 @@ While working we dealt little with code but were responsible for its integration
     
     <item>
       <title>Docker &amp; Kubernetes</title>
-      <link>http://example.org/about/skills/skill-docker_kubernetes/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-docker_kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-docker_kubernetes/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-docker_kubernetes/</guid>
       <description>I have learned a lot about Docker and Kubernetes in my work placement.
 Over the time I have also tried to apply these skills to personal project where I was able to deploy a local web-app on Raspberry Pi through Docker. I also apply it in projects / assignments wherever possible.
 My Final Year Project is oriented around Containerisation and Orchestration. Where I’m trying to deploy a full stack application utilizing message broker and orchestrated using Helm and Kubernetes.</description>
@@ -31,20 +31,20 @@ My Final Year Project is oriented around Containerisation and Orchestration. Whe
     
     <item>
       <title>Agile and Test Driven Developement</title>
-      <link>http://example.org/about/skills/skill-agile/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-agile/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-agile/</guid>
       <description>My 2nd year team project was oriented around Agile Development Cycle and Test Driven Development (TDD).
 My Agile skills were further expanded during my work experience and even though it we were dealing with integration my testing skills have also significantly improved from it.</description>
     </item>
     
     <item>
       <title>Unix</title>
-      <link>http://example.org/about/skills/skill-unix/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-unix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-unix/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-unix/</guid>
       <description>In my work placement I had to deal with Unix based systems heavily. But even before that I was familiar with them from virtualization side. Since then, I ended up using Ubuntu on my personal laptop to speed up any development processes and I have become comfortable interfacing with servers or VMs through terminals.
 Some systems I have dealt with:
 Ubuntu Raspbian Solaris </description>
@@ -52,10 +52,10 @@ Ubuntu Raspbian Solaris </description>
     
     <item>
       <title>App developement</title>
-      <link>http://example.org/about/skills/skill-app/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-app/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-app/</guid>
       <description>A more of a past-time that has developed into a complex project. What initially began as an idea for Android Studio app has since moved onto Flutter for more streamlined development experience.
 I have developed few demo apps in Android Studio but since I had moved to Flutter I have been focused on a single Time-table app project. It utilizes few different elements and has become a passion project of mine for the time being.</description>
     </item>

@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/intro/</loc>
+    <loc>https://benraguckas.github.io/about/intro/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/skill-devops/</loc>
+    <loc>https://benraguckas.github.io/about/skills/skill-devops/</loc>
   </url><url>
-    <loc>http://example.org/projects/item-1/</loc>
+    <loc>https://benraguckas.github.io/projects/item-1/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-java/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-java/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-leavingcert/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-leavingcert/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-dcu/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-dcu/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-js/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-js/</loc>
   </url><url>
-    <loc>http://example.org/projects/item-2/</loc>
+    <loc>https://benraguckas.github.io/projects/item-2/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/skill-docker_kubernetes/</loc>
+    <loc>https://benraguckas.github.io/about/skills/skill-docker_kubernetes/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-factorywork/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-factorywork/</loc>
   </url><url>
-    <loc>http://example.org/projects/item-3/</loc>
+    <loc>https://benraguckas.github.io/projects/item-3/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-ts/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-ts/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/skill-agile/</loc>
+    <loc>https://benraguckas.github.io/about/skills/skill-agile/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-dart/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-dart/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-ericsson-summer/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-ericsson-summer/</loc>
   </url><url>
-    <loc>http://example.org/projects/item-4/</loc>
+    <loc>https://benraguckas.github.io/projects/item-4/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-cs/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-cs/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-ericsson-placement/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-ericsson-placement/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/skill-unix/</loc>
+    <loc>https://benraguckas.github.io/about/skills/skill-unix/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/skill-app/</loc>
+    <loc>https://benraguckas.github.io/about/skills/skill-app/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/language-python/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/language-python/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/timeline-tus/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/timeline-tus/</loc>
   </url><url>
-    <loc>http://example.org/about/skills/</loc>
+    <loc>https://benraguckas.github.io/about/skills/</loc>
   </url><url>
-    <loc>http://example.org/about/programing-languages/</loc>
+    <loc>https://benraguckas.github.io/about/programing-languages/</loc>
   </url><url>
-    <loc>http://example.org/about/timeline/</loc>
+    <loc>https://benraguckas.github.io/about/timeline/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://benraguckas.github.io/about/</loc>
   </url><url>
-    <loc>http://example.org/tags/agile/</loc>
+    <loc>https://benraguckas.github.io/tags/agile/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://benraguckas.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/continuous-integration/</loc>
+    <loc>https://benraguckas.github.io/tags/continuous-integration/</loc>
   </url><url>
-    <loc>http://example.org/tags/devops/</loc>
+    <loc>https://benraguckas.github.io/tags/devops/</loc>
   </url><url>
-    <loc>http://example.org/tags/docker/</loc>
+    <loc>https://benraguckas.github.io/tags/docker/</loc>
   </url><url>
-    <loc>http://example.org/tags/flutter/</loc>
+    <loc>https://benraguckas.github.io/tags/flutter/</loc>
   </url><url>
-    <loc>http://example.org/tags/full-stack/</loc>
+    <loc>https://benraguckas.github.io/tags/full-stack/</loc>
   </url><url>
-    <loc>http://example.org/tags/git/</loc>
+    <loc>https://benraguckas.github.io/tags/git/</loc>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://benraguckas.github.io/tags/hugo/</loc>
   </url><url>
-    <loc>http://example.org/tags/kubernetes/</loc>
+    <loc>https://benraguckas.github.io/tags/kubernetes/</loc>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://benraguckas.github.io/projects/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://benraguckas.github.io/tags/</loc>
   </url><url>
-    <loc>http://example.org/tags/team-project/</loc>
+    <loc>https://benraguckas.github.io/tags/team-project/</loc>
   </url><url>
-    <loc>http://example.org/tags/webscraping/</loc>
+    <loc>https://benraguckas.github.io/tags/webscraping/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://benraguckas.github.io/</loc>
   </url>
 </urlset>

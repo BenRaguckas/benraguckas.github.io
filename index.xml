@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://benraguckas.github.io/</link>
     <description>Recent content in Welcome on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://benraguckas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/intro/</link>
+      <link>https://benraguckas.github.io/about/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/intro/</guid>
+      <guid>https://benraguckas.github.io/about/intro/</guid>
       <description>intro section</description>
     </item>
     
     <item>
       <title>DevOps &amp; Continuous Integration</title>
-      <link>http://example.org/about/skills/skill-devops/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-devops/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-devops/</guid>
       <description>My primary work experience.
 I had to work as part of DevOps team maintaining and ensuring successful deployment of a product.
 I have worked with Docker, Kubernetes, Helm utilizing Jenkins and Spinnaker for pipelines and automation.
@@ -29,10 +29,10 @@ While working we dealt little with code but were responsible for its integration
     
     <item>
       <title>Final Year Project</title>
-      <link>http://example.org/projects/item-1/</link>
+      <link>https://benraguckas.github.io/projects/item-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/item-1/</guid>
+      <guid>https://benraguckas.github.io/projects/item-1/</guid>
       <description>My final year project that is focused on developing a full stack application utilizing microservice architecture, orchestration and message broker.
 My goal is to deploy a full stack application with scalable and orchestrated structure for easier maintenance, upgradability, deployment and most importantly learning.
 It is very early in development and nothing of it can be showcased.</description>
@@ -40,10 +40,10 @@ It is very early in development and nothing of it can be showcased.</description
     
     <item>
       <title>Java</title>
-      <link>http://example.org/about/programing-languages/language-java/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-java/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-java/</guid>
       <description>Bread and butter of all my languages.
 Java is the primary language used by TUS so it is reflected in most of Projects and assignments.
 Over the time I have become very proficient with Java but I find myself preferring other languages when presented the option. Certain limiting design factors draw me away from Java.
@@ -53,30 +53,30 @@ JDBC JUnit testing Java Swing Multi-threading and Asynchronous programming </des
     
     <item>
       <title>Leaving Cert</title>
-      <link>http://example.org/about/timeline/timeline-leavingcert/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-leavingcert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-leavingcert/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-leavingcert/</guid>
       <description>St. Clare’s College, Ballyjamesduff, Co. Cavan
 Finished all honors with 425 points.</description>
     </item>
     
     <item>
       <title>DCU - Electronic &amp; computer engineering</title>
-      <link>http://example.org/about/timeline/timeline-dcu/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-dcu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-dcu/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-dcu/</guid>
       <description>This proved to be my first introduction to software.
 Unfortunatelly due to financial situation and lack of interested I dropped the course 1 year later.</description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://example.org/about/programing-languages/language-js/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-js/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-js/</guid>
       <description>Somehow this has become a staple for starting out many project ideas.
 Majority of my exploratory projects have started out in JavaScript and it has proved to be great learning tool due to it’s easy of use. Much of my skill can be attributed to JavaScript.
 When it comes to JavaScript I have worked with:
@@ -85,19 +85,19 @@ Creating APIs Web compression using Z-lib Web scraping Web design </description>
     
     <item>
       <title>Newsagent assignment</title>
-      <link>http://example.org/projects/item-2/</link>
+      <link>https://benraguckas.github.io/projects/item-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/item-2/</guid>
+      <guid>https://benraguckas.github.io/projects/item-2/</guid>
       <description>2nd year team project</description>
     </item>
     
     <item>
       <title>Docker &amp; Kubernetes</title>
-      <link>http://example.org/about/skills/skill-docker_kubernetes/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-docker_kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-docker_kubernetes/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-docker_kubernetes/</guid>
       <description>I have learned a lot about Docker and Kubernetes in my work placement.
 Over the time I have also tried to apply these skills to personal project where I was able to deploy a local web-app on Raspberry Pi through Docker. I also apply it in projects / assignments wherever possible.
 My Final Year Project is oriented around Containerisation and Orchestration. Where I’m trying to deploy a full stack application utilizing message broker and orchestrated using Helm and Kubernetes.</description>
@@ -105,10 +105,10 @@ My Final Year Project is oriented around Containerisation and Orchestration. Whe
     
     <item>
       <title>Mr. Crumb - Factory work</title>
-      <link>http://example.org/about/timeline/timeline-factorywork/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-factorywork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-factorywork/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-factorywork/</guid>
       <description>First real work experience where I had a chance to truly learn to work under pressure, develop personal and team work skills. This provided me sufficient financial security and the drive to further pursue my education.
 •	Learned to be confident in my work and ability
 •	Flexibility to conduct many different tasks
@@ -117,19 +117,19 @@ My Final Year Project is oriented around Containerisation and Orchestration. Whe
     
     <item>
       <title>Timetable app</title>
-      <link>http://example.org/projects/item-3/</link>
+      <link>https://benraguckas.github.io/projects/item-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/item-3/</guid>
+      <guid>https://benraguckas.github.io/projects/item-3/</guid>
       <description>App for displaying timetable</description>
     </item>
     
     <item>
       <title>TypeScript</title>
-      <link>http://example.org/about/programing-languages/language-ts/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-ts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-ts/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-ts/</guid>
       <description>A more preferred version of JavaScript
 I had little opportunity to work with TypeScript as I don’t find it too suited for minor projects or coding exercises, but I do find it to be “improved” version of JavaScript. Features it provides and especially types are extremely appealing to work with.
 The first time I had a chance to work with Node.js was using TypeScript.
@@ -138,20 +138,20 @@ I would like to use TypeScript more but as it sits JavaScript is more approachab
     
     <item>
       <title>Agile and Test Driven Developement</title>
-      <link>http://example.org/about/skills/skill-agile/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-agile/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-agile/</guid>
       <description>My 2nd year team project was oriented around Agile Development Cycle and Test Driven Development (TDD).
 My Agile skills were further expanded during my work experience and even though it we were dealing with integration my testing skills have also significantly improved from it.</description>
     </item>
     
     <item>
       <title>Dart</title>
-      <link>http://example.org/about/programing-languages/language-dart/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-dart/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-dart/</guid>
       <description>Dart was an odd language to pick up on and it was only due to developing an App in Flutter.
 The language is relatively complex with its own nuances, but it feels a lot like Java or C# which I have extensive experience with.
 I’m not too certain where I would use Dart outside of Flutter but developing apps with it feels a lot more streamlined and fast compared to Android Studio.</description>
@@ -159,10 +159,10 @@ I’m not too certain where I would use Dart outside of Flutter but developing a
     
     <item>
       <title>Ericsson summer work experience</title>
-      <link>http://example.org/about/timeline/timeline-ericsson-summer/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-ericsson-summer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-ericsson-summer/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-ericsson-summer/</guid>
       <description>First work experience in the sofware field after 2nd year of study. I was part of DevOps / Continuous Integration team.
 This was very much out of my comfort zone and I had to pick up on many new skills like Containerization, Docker and Kubernetes. I found it very overwhelming but it proved very helpful at learning these new skills.
 I was difficul to keep up with tasks but I was able to integrate new automated tests suites.</description>
@@ -170,19 +170,19 @@ I was difficul to keep up with tasks but I was able to integrate new automated t
     
     <item>
       <title>Portfolio website</title>
-      <link>http://example.org/projects/item-4/</link>
+      <link>https://benraguckas.github.io/projects/item-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/item-4/</guid>
+      <guid>https://benraguckas.github.io/projects/item-4/</guid>
       <description>App for displaying timetable</description>
     </item>
     
     <item>
       <title>C#</title>
-      <link>http://example.org/about/programing-languages/language-cs/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-cs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-cs/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-cs/</guid>
       <description>C#, what I like to consider to be a more handsome cousins of Java.
 Unfortunately, my experience with C# is lesser but I found majority of my skills of Java to be extremely transferable. Combined with the extra features it offers and general coding conventions I find myself enjoying it the most out of all languages.
 Most of my experience comes from:
@@ -191,10 +191,10 @@ ASP.net Godot Unity </description>
     
     <item>
       <title>Ericsson work placement</title>
-      <link>http://example.org/about/timeline/timeline-ericsson-placement/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-ericsson-placement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-ericsson-placement/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-ericsson-placement/</guid>
       <description>3rd year work placement back with Ericsson and the same team as before.
 This time I had previous knowledge and skills that I was able to build upon during the school semester. I became a lot more proficient with Containerisations as a whole and Docker became second nature. Kubernetes still proved difficult to work with, but I had greater success that I did before.
 Throughout my time I managed to work more on new test suites for automated pipelines as well as paving the way to some more automation of repetitive tasks.</description>
@@ -202,10 +202,10 @@ Throughout my time I managed to work more on new test suites for automated pipel
     
     <item>
       <title>Unix</title>
-      <link>http://example.org/about/skills/skill-unix/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-unix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-unix/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-unix/</guid>
       <description>In my work placement I had to deal with Unix based systems heavily. But even before that I was familiar with them from virtualization side. Since then, I ended up using Ubuntu on my personal laptop to speed up any development processes and I have become comfortable interfacing with servers or VMs through terminals.
 Some systems I have dealt with:
 Ubuntu Raspbian Solaris </description>
@@ -213,20 +213,20 @@ Ubuntu Raspbian Solaris </description>
     
     <item>
       <title>App developement</title>
-      <link>http://example.org/about/skills/skill-app/</link>
+      <link>https://benraguckas.github.io/about/skills/skill-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/skills/skill-app/</guid>
+      <guid>https://benraguckas.github.io/about/skills/skill-app/</guid>
       <description>A more of a past-time that has developed into a complex project. What initially began as an idea for Android Studio app has since moved onto Flutter for more streamlined development experience.
 I have developed few demo apps in Android Studio but since I had moved to Flutter I have been focused on a single Time-table app project. It utilizes few different elements and has become a passion project of mine for the time being.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://example.org/about/programing-languages/language-python/</link>
+      <link>https://benraguckas.github.io/about/programing-languages/language-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/programing-languages/language-python/</guid>
+      <guid>https://benraguckas.github.io/about/programing-languages/language-python/</guid>
       <description>The only language that I have actual work experience with.
 I&amp;rsquo;m not too fond of Python due to it&amp;rsquo;s scripting nature and coding conventions, but even I must admit that it is an excellent choice to achieve results.
 I have worked with:
@@ -235,10 +235,10 @@ PyTest (with Alure) Web scraping Multi-threading / Async Machine learning </desc
     
     <item>
       <title>TUS - Software developement with cloud computing</title>
-      <link>http://example.org/about/timeline/timeline-tus/</link>
+      <link>https://benraguckas.github.io/about/timeline/timeline-tus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/timeline/timeline-tus/</guid>
+      <guid>https://benraguckas.github.io/about/timeline/timeline-tus/</guid>
       <description>I&amp;rsquo;m on my final year of study.
 I continue to aim for First Class Honours (1.1) which I managed to keep up with so far.</description>
     </item>
