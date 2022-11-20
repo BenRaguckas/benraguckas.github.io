@@ -5,8 +5,16 @@
 }
 
 .home-display-welcome {
-    display: block;
+    display: flex;
+    align-items: end;
+    overflow: auto;
     padding: 2px;
+    height: 1.5rem;
+
+    p {
+        display: inline-block;
+        vertical-align: bottom;
+    }
 
     p:first-child {
         float:left;

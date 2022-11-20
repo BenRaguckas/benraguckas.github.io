@@ -5,13 +5,14 @@ $midnight: #3c97f1;
 $clouds: #ecf0f1;
 
 .about-section {
+    font-family: "Lucida Console", "Courier New", monospace;
     display: block;
 }
 
 .about-heading {
+  
+  font-family: "Lucida Console", "Courier New", monospace;
   margin-top: 1em;
-	// font-family: "Archivo Black", sans-serif;
-	font-family: "Raleway", sans-serif;
 
   hr {
     margin-bottom: 1rem;
@@ -61,26 +62,45 @@ $clouds: #ecf0f1;
 }
 
 .timeline-table {
+    font-size: large;
     margin: 0 auto;
-    width: 90%;
+    width: 95%;
     text-align: left;
 
     border-collapse: collapse;
-    border-width: 2px;
-    border-style: solid;
-    border-color: $body-background;
-    
+    border-width: 4px;
+    border-style: solid;    
+    border-color: rgba($color: #000000, $alpha: 0.5);
+
+    tr:nth-child(2n):not(:first-child), tr:first-child {
+      background-color: $skills-background;
+      
+      td, th {
+        padding: 12px;
+        border-width: 4px;
+        border-style: none solid none solid;
+        border-color: rgba($color: #000000, $alpha: 0.5);
+      }
+
+      th {
+        background-color: darken($skills-background, 5%);
+        border-width: 4px;
+        border-style: solid;
+      }
+    }
+
+    // Hover headings (every 4th)
     tr:nth-child(2n):not(:first-child):hover {
+        background-color: darken($skills-background, 10%);
         cursor: pointer;
-        background-color: rgba($color: #ffffff, $alpha: 0.1);
     }
 
     tr:nth-child(2n+1):not(:first-child){
-        background-color: rgba($color: #2200ff, $alpha: 0.1);
+      background-color: $skills-box-background;
     }
     
     tr:nth-child(4n):not(:first-child){
-        background-color: rgba($color: #ffffff, $alpha: 0.1);
+        background-color: lighten($skills-background, 10%);
     }
 }
 

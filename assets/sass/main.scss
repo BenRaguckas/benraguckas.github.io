@@ -6,7 +6,7 @@
 }
 
 body {
-	padding-left:300px;
+	padding-left: clamp(200px, 20%, 300px);
 	position:relative;
 	height:100vh;
 	background-color: $body-background;

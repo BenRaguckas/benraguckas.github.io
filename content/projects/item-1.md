@@ -1,7 +1,7 @@
 ---
 title: Final Year Project
 weight: 1
-status: WIP
+status: WiP
 links:
     GitHub Repo: "https://github.com/tussoftwaredesign/project-BenRaguckas"
 image: images/projects/proj-1.jpg

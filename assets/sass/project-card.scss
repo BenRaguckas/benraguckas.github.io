@@ -13,9 +13,11 @@
   display: block;
   // font-family: "Archivo Black", sans-serif;
 
-    .card-click {
-        text-decoration: none;
-    }
+  hr {color: $body-background; }
+
+  .card-click {
+      text-decoration: none;
+  }
   
   .project-content {
     position: relative;
@@ -103,6 +105,8 @@
   display: block;
   width: 100%;
   li {
+    border-style: double;
+    border-color: $project-card;
     margin: 2px 4px;
     padding: 5px;
     background-color: $body-background;

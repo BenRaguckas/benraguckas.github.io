@@ -15,4 +15,13 @@ languages:
     - MySQL
     - JDBC
 ---
-2nd year team project
+2nd year team project (4 members) where we had to build a database access program in Java.
+
+&nbsp;
+
+It had to be delivered in 4 sprints uzing Agile approach.
+Our objective was to gradually develop a this application to interact, manage and automate specific database usage.
+
+&nbsp;
+
+Our final delivarable can be found on github page.
