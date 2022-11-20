@@ -1,0 +1,31 @@
+<meta charset="utf-8" />
+<title>{{ .Page.Title }}</title>
+
+{{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />
+{{ $style := resources.Get "sass/nav.scss" | resources.ToCSS | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />
+
+<script src="https://kit.fontawesome.com/bd11827ffc.js" crossorigin="anonymous"></script>
+
+{{ $script := resources.Get "js/bread_and_butter.js" | resources.Minify }}
+<script src="{{ $script.Permalink }}"></script>
+
+{{if eq $.Section "about"}}
+    {{ $style := resources.Get "sass/about.scss" | resources.ToCSS | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    {{ $script := resources.Get "js/about.js" | resources.Minify }}
+    <script src="{{ $script.Permalink }}"></script>
+{{end}}
+
+{{if eq $.Section ""}}
+    {{ $style := resources.Get "sass/index.scss" | resources.ToCSS | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    {{ $script := resources.Get "js/index.js" | resources.Minify }}
+    <script src="{{ $script.Permalink }}"></script>
+{{end}}
+
+{{if eq $.Section "projects"}}
+    {{ $style := resources.Get "sass/project-card.scss" | resources.ToCSS | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+{{end}}

@@ -1,0 +1,11 @@
+<div class="skills-block">
+    {{ range .Pages.ByWeight }}
+    <div class="skills-item">
+        <input type="checkbox" id="{{ .Params.identifier }}">
+        <label class="skills-item-label" for="{{ .Params.identifier }}"><h3>{{ .Params.title }}</h3></label>
+        <div class="skills-item-content">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+</div>

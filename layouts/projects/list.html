@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ .Content }}
+<div>
+    {{ range .Pages }}
+    {{ partial "project-card.html" . }}
+    {{ end }}
+</div>
+{{ end }}

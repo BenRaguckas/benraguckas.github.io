@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="home-section">
+    <div class="home-display-welcome">
+        <p>/home/ben:</p>
+        <p id="index_welcome" data-text="{{ .Params.message_greeting }}" data-end="{{ .Params.message_show }}">▮</p>
+    </div>
+    <div class="home-display-message" id="indx_message" style="max-height: 0px; overflow: hidden;">
+        <p>&nbsp;</p>
+        {{ .Content }}
+        <p>&nbsp;</p>
+        <p>/home/ben:▮</p>
+    </div>
+</div>
+{{ end }}

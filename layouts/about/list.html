@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ .Content }}
+<div>
+    {{range .Pages.ByWeight }}
+        {{if isset .Params "is_about"}}
+        <div class="about-section">
+            <h1 class="about-heading">
+                {{ .Params.title }}
+                <hr/>
+            </h1>
+            <div class="about-desc">
+                {{ .Content }}
+            </div>
+            {{ partial .Params.partial . }}
+        </div>
+        {{end}}
+    {{end}}
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+{{ end }}

@@ -1,0 +1,21 @@
+@import "colors-dark";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	padding-left:300px;
+	position:relative;
+	height:100vh;
+	background-color: $body-background;
+	color: $body-text;
+}
+
+main {
+    margin: auto;
+	width: 70%;
+	min-width: 600px;
+	max-width: 900px;
+}

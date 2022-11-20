@@ -1,0 +1,18 @@
+<div class="language-buttons">
+    {{ range .Pages.ByWeight }}
+    <a class="language-item" onclick="showLanguage('{{ .Params.identifier }}')">
+        {{ $image := resources.Get .Params.image }}
+        <img src="{{ $image.RelPermalink }}">
+    </a>
+    {{ end }}
+</div>
+<div class="language-section">
+    {{ range $index, $element := .Pages }}
+        <div class="timeline-description" style="display: none;" id="{{ .Params.identifier }}">
+            <h2>{{ .Params.title }}</h2>
+            <hr/>
+            <br/>
+            {{ .Content }}
+        </div>
+    {{ end }}
+</div>

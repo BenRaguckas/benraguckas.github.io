@@ -1,0 +1,37 @@
+<div class="project-card">
+    <div class="project-content">
+        <div class="project-status"><h4>{{ .Params.status }}</h4></div>
+        <h1>{{ .Params.Title }}</h1>
+        <a href="{{ .Params.url }}" class="card-click">
+            {{ $image := resources.Get .Params.image }}
+            <img src="{{ $image.RelPermalink }}">
+        </a>
+        <div class="project-tags">
+            <h3 class="project-tags-heading">Skills: </h3>
+            <ul>
+                {{ range .Params.tags }}
+                    <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="project-tags">
+            <h3 class="project-tags-heading">Languages: </h3>
+            <ul>
+                {{ range .Params.languages }}
+                    <ul><li>{{ . }}</li></ul>
+                {{ end }}
+            </ul>
+        </div>
+        <hr/>
+        <div class="project-desc">
+            {{ .Content }}
+        </div>
+    </div>
+    {{/* Divs for artistic border */}}
+    <div class="i-1"></div>
+    <div class="i-2"></div>
+    <div class="i-3"></div>
+    <div class="i-4"></div>
+    <div class="i-5"></div>
+    <div class="i-6"></div>
+</div>

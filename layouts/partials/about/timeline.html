@@ -1,0 +1,17 @@
+<table class="timeline-table">
+    <tr>
+        <th>End Date</th>
+        <th>Duration</th>
+        <th>Title</th>
+    </tr>
+    {{range .Pages.ByWeight.Reverse }}
+    <tr onclick="showTimeline('{{ .Params.identifier }}')">
+        <td>{{ .Params.end_date }}</td>
+        <td>{{ .Params.duration }}</td>
+        <td>{{ .Params.title }}</td>
+    </tr>
+    <tr><td colspan="3">
+            <div id="{{ .Params.identifier }}" class="timeline-description" style="max-height: 0px;">{{ .Content }}</div>
+        </td></tr>
+    {{end}}
+</table>

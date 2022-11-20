@@ -1,0 +1,117 @@
+@import "variables";
+@import "colors-dark";
+
+
+.project-card {
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: $project-card;
+  color: $project-card-text;
+  margin-top: calc(#{$project-card-offset} * 4);
+  margin-bottom: calc(#{$project-card-offset} * 4);
+  padding: calc(#{$project-card-offset} * 2);
+  position: relative;
+  display: block;
+  // font-family: "Archivo Black", sans-serif;
+
+    .card-click {
+        text-decoration: none;
+    }
+  
+  .project-content {
+    position: relative;
+    padding: 10px 20px;
+
+    img {
+        width: 100%;
+    }
+  }
+  
+  .i-1 {
+    position: absolute;
+    background-color: $body-background;
+    z-index: 10;
+    top: $project-card-offset;
+    left: $project-card-offset;
+    width: calc(100% - #{$project-card-offset});
+    height: $project-card-width;
+  }
+  
+  .i-2 {
+    position: absolute;
+    background-color: $project-card;
+    top: $project-card-offset;
+    left: 100%;
+    width: $project-card-offset;
+    height: $project-card-width;
+  }
+  
+  .i-3 {
+    position: absolute;
+    background-color: $project-card;
+    top: $project-card-offset;
+    left: calc(100% + #{$project-card-offset});
+    width: $project-card-width;
+    height: 100%;
+  }
+  
+  .i-4 {
+    position: absolute;
+    background-color: $body-background;
+    z-index: 10;
+    left: $project-card-offset;
+    top: $project-card-offset;
+    height: calc(100% - #{$project-card-offset});
+    width: $project-card-width;
+  }
+  
+  .i-5 {
+    position: absolute;
+    background-color: $project-card;
+    left: $project-card-offset;
+    top: 100%;
+    height: $project-card-offset;
+    width: $project-card-width;
+  }
+  
+  .i-6 {
+    position: absolute;
+    background-color: $project-card;
+    left: $project-card-offset;
+    top: calc(100% + #{$project-card-offset});
+    height: $project-card-width;
+    width: calc(100% + #{$project-card-width});
+  }
+}
+
+.project-status {
+  overflow: auto;
+  display: block;
+  width: 100%;
+  h4 {
+    float: right;
+  }
+}
+
+.project-tags-heading {
+  float: left;
+  padding: 5px;
+}
+
+.project-tags{
+  margin-bottom: 0.3rem;
+  overflow: auto;
+  display: block;
+  width: 100%;
+  li {
+    margin: 2px 4px;
+    padding: 5px;
+    background-color: $body-background;
+    list-style-type: none;
+    color: $body-text;
+    float: left;
+  }
+}
+
+.project-desc {
+  margin: 0.3rem;
+}

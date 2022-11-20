@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "meta.html" . }}
+</head>
+
+<body>
+    {{ partial "nav.html" }}
+    <main class="main-body">
+        {{ block "main" . }}
+        {{ end }}
+    </main>
+    {{ partial "scroll.html" . }}
+</body>
+
+</html>
