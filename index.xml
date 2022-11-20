@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on My New Hugo Site</title>
+    <title>Welcome on Portfolio site</title>
     <link>https://benraguckas.github.io/</link>
-    <description>Recent content in Welcome on My New Hugo Site</description>
+    <description>Recent content in Welcome on Portfolio site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://benraguckas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/about/intro/</guid>
-      <description>intro section</description>
+      <description>I&amp;rsquo;m a software developer in my final year of study:
+Technological University of the Shannon: Midlands Midwest
+BSc (Hons) degree in Software Design (Cloud Computing)
+I enjoy software development of any kind, but I do prefer programming with strongly typed languages. I aim to be a jack of all trades when it comes to software and with majority of my projects I try to expand into as many fields as I can.</description>
     </item>
     
     <item>
@@ -89,7 +92,9 @@ Creating APIs Web compression using Z-lib Web scraping Web design </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/projects/item-2/</guid>
-      <description>2nd year team project</description>
+      <description>2nd year team project (4 members) where we had to build a database access program in Java.
+It had to be delivered in 4 sprints uzing Agile approach. Our objective was to gradually develop a this application to interact, manage and automate specific database usage.
+Our final delivarable can be found on github page.</description>
     </item>
     
     <item>
@@ -121,7 +126,8 @@ My Final Year Project is oriented around Containerisation and Orchestration. Whe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/projects/item-3/</guid>
-      <description>App for displaying timetable</description>
+      <description>A personal project of mine to automate and streamline timetable viewing experience for my college.
+What originally began as an Android Studio project has since moved to Flutter for ease of development, ease of building to different platforms and general performance issues I was facing. Although the project is fairly far in it’s progress it is difficult to showcase as majority of work is foundational and proper usability will likely only happen at ~85% completion with the remainder being polish of UX / UI.</description>
     </item>
     
     <item>
@@ -174,7 +180,10 @@ I was difficul to keep up with tasks but I was able to integrate new automated t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/projects/item-4/</guid>
-      <description>App for displaying timetable</description>
+      <description>This very page that I built from scratch using HUGO.
+It was an idea I had for a while that was pushed forward due to an assignment requirement.
+It is still in its early stage most notably lacking responsiveness and higher level of polish.
+Still WiP as I plan to improve and add to it to improve workflow.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Continuous Integration on My New Hugo Site</title>
+    <title>Continuous Integration on Portfolio site</title>
     <link>https://benraguckas.github.io/tags/continuous-integration/</link>
-    <description>Recent content in Continuous Integration on My New Hugo Site</description>
+    <description>Recent content in Continuous Integration on Portfolio site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://benraguckas.github.io/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/projects/item-2/</guid>
-      <description>2nd year team project</description>
+      <description>2nd year team project (4 members) where we had to build a database access program in Java.
+It had to be delivered in 4 sprints uzing Agile approach. Our objective was to gradually develop a this application to interact, manage and automate specific database usage.
+Our final delivarable can be found on github page.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Ben on My New Hugo Site</title>
+    <title>About Ben on Portfolio site</title>
     <link>https://benraguckas.github.io/about/</link>
-    <description>Recent content in About Ben on My New Hugo Site</description>
+    <description>Recent content in About Ben on Portfolio site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://benraguckas.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benraguckas.github.io/about/intro/</guid>
-      <description>intro section</description>
+      <description>I&amp;rsquo;m a software developer in my final year of study:
+Technological University of the Shannon: Midlands Midwest
+BSc (Hons) degree in Software Design (Cloud Computing)
+I enjoy software development of any kind, but I do prefer programming with strongly typed languages. I aim to be a jack of all trades when it comes to software and with majority of my projects I try to expand into as many fields as I can.</description>
     </item>
     
   </channel>
